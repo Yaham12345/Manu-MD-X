@@ -1,7 +1,7 @@
 module.exports = {
   "ALIVE_IMG": "",
   "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
-  "PREFIX": ",",
+  "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "MODE": "public",
   "BOT_NUMBER": "94756209818",
